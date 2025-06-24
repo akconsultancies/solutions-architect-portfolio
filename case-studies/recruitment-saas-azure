@@ -1,0 +1,22 @@
+# Case Study: SaaS Migration for Recruitment Platform
+
+## 🏢 Client
+Confidential Recruitment Company
+
+## 📅 Duration
+2021
+
+## 🎯 Objective
+Migrate legacy on-premise recruitment application to Azure SaaS, automate billing and payroll integrations.
+
+## 🧩 Solution
+- Migrated platform to Azure with full DevOps support
+- Created automated data extracts and REST APIs
+- Streamlined architecture for payroll feeds and reporting
+
+## 🛠️ Technologies
+Azure, Boomi, REST APIs, DevOps Pipelines, SQL Server
+
+## 📈 Impact
+- £150k–£200k in annual headcount savings
+- Improved data feed reliability and audit transparency
