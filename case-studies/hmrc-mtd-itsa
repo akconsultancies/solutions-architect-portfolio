@@ -1,0 +1,24 @@
+# Case Study: HMRC – Making Tax Digital (MTD for ITSA)
+
+## 🏢 Client
+HMRC (His Majesty’s Revenue & Customs)
+
+## 📅 Duration
+Apr 2024 – Feb 2025
+
+## 🎯 Objective
+Architect and lead the transition of HMRC's tax systems to support Making Tax Digital (ITSA) on AWS, targeting over 4 million users.
+
+## 🧩 Solution
+- Designed microservices architecture using AWS
+- Integrated FATCA, CDS, and International Trade Exchange APIs
+- Migrated legacy MT942 format to CAMT using Open API Specs
+- Explored GenAI use cases for LLM-driven user assistance via Azure OpenAI
+
+## 🛠️ Technologies
+AWS, MongoDB, OpenAPI, Azure OpenAI, REST APIs, Swagger
+
+## 📈 Impact
+- Future-proofed tax processing architecture
+- Reduced operational complexity through better data formats
+- Supported compliance with global trade and banking APIs
